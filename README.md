@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kipngeno Isaac
 
 I'm a full-stack developer focused on **blockchain**, **cloud automation**, and real-world **Web3 integrations**. I love building software that empowers users—whether it's sending money across borders or simplifying cloud infrastructure.
 
